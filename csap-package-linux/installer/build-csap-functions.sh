@@ -82,7 +82,7 @@ function checkOutRepos() {
 					git add --all
 					
 					print_two_columns "created" "$test-$NOW"
-					git commit -m "second commit"
+					git commit -m "csap-master-merge $NOW"
 				fi ;
 				
 				print_two_columns "pushing" "$gitHubLocation"
