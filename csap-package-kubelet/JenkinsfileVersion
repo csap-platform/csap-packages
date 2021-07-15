@@ -1,0 +1,5 @@
+template poms: 'csap-package-kubelet/pom.xml',
+    enableParentVersion: true,
+    enableVersion: true,
+    enableTag: true,
+    defaultTag: 'csap-package-kubelet'

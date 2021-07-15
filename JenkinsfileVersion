@@ -1,0 +1,4 @@
+template poms: './pom.xml',
+    enableVersion: true,
+    enableTag: true,
+    defaultTag: 'csap-package-parent'

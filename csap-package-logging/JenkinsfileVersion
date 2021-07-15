@@ -1,0 +1,5 @@
+template poms: 'csap-package-logging/pom.xml',
+    enableParentVersion: true,
+    enableVersion: true,
+    enableTag: true,
+    defaultTag: 'csap-package-logging'

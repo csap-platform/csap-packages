@@ -1,0 +1,9 @@
+{
+	"registry-mirrors": [
+		"sensus-docker.davis.sensus.lab"
+	],
+	"insecure-registries": [
+		"sensus-docker.davis.sensus.lab",
+		"docker.davis.sensus.lab"
+	]
+}
