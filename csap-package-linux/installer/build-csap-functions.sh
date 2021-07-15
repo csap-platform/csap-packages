@@ -74,8 +74,8 @@ function checkOutRepos() {
 					
 				else
 					
+					NOW=$(date +"%h-%d-%I-%M-%S") ;
 					# testing only
-#					NOW=$(date +"%h-%d-%I-%M-%S") ;
 #					echo "test" >> test-$NOW
 #					rm --recursive --force test*
 					
